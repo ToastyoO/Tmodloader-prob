@@ -1,0 +1,227 @@
+﻿[16:05:03] [1/INFO] [tML]: Starting tModLoader v0.11.7.5 Windows client (9/2/2020)
+[16:05:03] [1/INFO] [tML]: Running on NetFramework 4.8
+[16:05:03] [1/INFO] [tML]: Executable: C:\Program Files\Steam\steamapps\common\tModLoader\tModLoader.exe
+[16:05:03] [1/INFO] [tML]: Working Directory: C:\Program Files\Steam\steamapps\common\tModLoader
+[16:05:03] [1/INFO] [tML]: Launch Parameters: 
+[16:05:03] [1/DEBUG] [tML]: Assembly Resolve:  -> MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null
+[16:05:03] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null -> MonoMod.Utils, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null
+[16:05:03] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null -> Mono.Cecil, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[16:05:04] [1/DEBUG] [tML]: Assembly Resolve:  -> Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+[16:05:04] [1/DEBUG] [tML]: Assembly Resolve:  -> Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+[16:05:04] [1/DEBUG] [tML]: Assembly Resolve:  -> Steamworks.NET, Version=9.1.0.0, Culture=neutral, PublicKeyToken=null
+[16:05:04] [1/INFO] [tML]: Checking Steam installation...
+[16:05:05] [1/INFO] [tML]: Steam installation OK.
+[16:05:05] [1/INFO] [Terraria]: Found Terraria steamapp install at: C:\Program Files\Steam\steamapps\common\Terraria
+[16:05:05] [1/INFO] [Terraria]: Steam Cloud Quota: 137.1 MB available
+[16:05:07] [1/DEBUG] [Terraria]: Graphics Device: AMD Radeon(TM) R7 Graphics {Width:1920 Height:1080 Format:Color AspectRatio:1.777778}
+[16:05:07] [1/DEBUG] [Terraria]: Device Reset, Profile: Reach -> HiDef, Width: 800, Height: 480, Fullscreen: False, Display: \\.\DISPLAY1
+[16:05:21] [1/INFO] [Terraria]: Loaded 1000 vanilla assets
+[16:05:24] [1/INFO] [Terraria]: Loaded 2000 vanilla assets
+[16:05:24] [1/INFO] [Terraria]: Loaded 3000 vanilla assets
+[16:05:25] [1/INFO] [Terraria]: Loaded 4000 vanilla assets
+[16:05:25] [1/INFO] [Terraria]: Loaded 5000 vanilla assets
+[16:05:35] [1/DEBUG] [Terraria]: Device Reset, Profile: HiDef, Width: 800 -> 1920, Height: 480 -> 986, Fullscreen: False, Display: \\.\DISPLAY1
+[16:05:40] [9/DEBUG] [tML]: Assembly Resolve:  -> MP3Sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[16:05:47] [9/DEBUG] [tML]: Assembly Resolve:  -> NVorbis, Version=0.8.4.0, Culture=neutral, PublicKeyToken=null
+[16:05:49] [7/DEBUG] [tML]: Assembly Resolve:  -> Mono.Cecil.Mdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[16:05:49] [7/DEBUG] [tML]: Assembly Resolve:  -> Mono.Cecil.Pdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[16:05:50] [7/INFO] [Terraria]: JIT loading finished
+[16:05:50] [12/INFO] [tML]: Unloading mods
+[16:05:53] [12/INFO] [tML]: Finding Mods...
+[16:06:07] [12/INFO] [tML]: Sandboxing: CalamityMod
+[16:06:10] [12/INFO] [tML]: Sandboxing: AlchemistNPC
+[16:06:10] [12/INFO] [tML]: Sandboxing: Antisocial
+[16:06:10] [12/INFO] [tML]: Sandboxing: BossChecklist
+[16:06:11] [12/INFO] [tML]: Sandboxing: BrighterTorches
+[16:06:11] [12/INFO] [tML]: Sandboxing: CheatSheet
+[16:06:11] [12/INFO] [tML]: Sandboxing: HamstarHelpers
+[16:06:12] [12/INFO] [tML]: Sandboxing: ExtensibleInventory
+[16:06:12] [12/INFO] [tML]: Sandboxing: imkSushisMod
+[16:06:12] [12/INFO] [tML]: Sandboxing: JoostMod
+[16:06:12] [12/INFO] [tML]: Sandboxing: WingSlot
+[16:06:13] [12/INFO] [tML]: Sandboxing: Loot
+[16:06:13] [12/INFO] [tML]: Sandboxing: Luiafk
+[16:06:13] [12/INFO] [tML]: Sandboxing: MagicStorage
+[16:06:13] [12/INFO] [tML]: Sandboxing: MaxStackExtra
+[16:06:13] [12/INFO] [tML]: Sandboxing: NoMoreTombs
+[16:06:13] [12/INFO] [tML]: Sandboxing: OmniSwing
+[16:06:13] [12/INFO] [tML]: Sandboxing: PlentifulOres
+[16:06:13] [12/INFO] [tML]: Sandboxing: RecipeBrowser
+[16:06:14] [12/INFO] [tML]: Sandboxing: ReducedGrinding
+[16:06:14] [12/INFO] [tML]: Sandboxing: ShorterRespawn
+[16:06:14] [12/INFO] [tML]: Sandboxing: SmartDoors
+[16:06:14] [12/INFO] [tML]: Sandboxing: UsefulNPCs
+[16:06:14] [12/INFO] [tML]: Sandboxing: VeinMiner
+[16:06:14] [12/INFO] [tML]: Instantiating Mods...
+[16:06:17] [12/INFO] [tML]: Initializing: ModLoader v0.11.7.5
+[16:06:18] [12/INFO] [tML]: Initializing: CalamityMod v1.4.5.2
+[16:06:27] [9/WARN] [tML]: Silently Caught Exception: 
+System.OutOfMemoryException: Insufficient memory to continue the execution of the program.
+   at Microsoft.Xna.Framework.Helpers.GetExceptionFromResult(UInt32 result)
+   at Microsoft.Xna.Framework.Graphics.GraphicsHelpers.GetExceptionFromResult(UInt32 result)
+   at Microsoft.Xna.Framework.Graphics.Texture2D.CreateTexture(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Boolean mipMap, UInt32 usage, _D3DPOOL pool, SurfaceFormat format)
+   at Microsoft.Xna.Framework.Graphics.Texture2D..ctor(GraphicsDevice graphicsDevice, Int32 width, Int32 height)
+   at Terraria.ModLoader.IO.ImageIO.<>c__DisplayClass8_0.<RawToTexture2DAsync>b__0()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:27] [9/FATAL] [tML]: Game ran out of memory. You'll have to find which mod is consuming lots of memory, and contact the devs or remove it.
+[16:06:27] [12/WARN] [tML]: Silently Caught Exception: 
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.IO.BinaryReader.ReadBytes(Int32 count)
+   at Terraria.ModLoader.IO.ImageIO.ReadRaw(BinaryReader r)
+   at Terraria.ModLoader.IO.ImageIO.RawToTexture2DAsync(GraphicsDevice graphicsDevice, BinaryReader r)
+   at Terraria.ModLoader.Mod.LoadTexture(String path, Stream stream, Boolean rawimg)
+   at Terraria.ModLoader.Mod.LoadResource(String path, Int32 length, Func`1 getStream)
+   at Terraria.ModLoader.Mod.LoadResources()
+   at Terraria.ModLoader.ModContent.<>c.<Load>b__38_0(Mod mod)
+   at Terraria.ModLoader.ModContent.LoadModContent(CancellationToken token, Action`1 loadAction)
+   at Terraria.ModLoader.ModContent.Load(CancellationToken token)
+   at Terraria.ModLoader.ModLoader.Load(CancellationToken token)
+   at Terraria.ModLoader.ModLoader.<>c__DisplayClass42_0.<BeginLoad>b__0()
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:27] [12/FATAL] [tML]: Game ran out of memory. You'll have to find which mod is consuming lots of memory, and contact the devs or remove it.
+[16:06:28] [14/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at NPCs/Providence/Glowmasks/ProvidenceDefenseAltGlow2Night failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [18/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at NPCs/Providence/Providence failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [11/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at NPCs/Providence/Glowmasks/ProvidenceAltGlow failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [32/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at ExtraTextures/UI/DraedonsLogWallOfFlesh failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [16/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at Projectiles/Rogue/EclipseMirrorFlash failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [25/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at NPCs/Providence/Glowmasks/ProvidenceAltGlow2 failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [29/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at NPCs/Providence/ProvidenceAltNight failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [28/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at NPCs/Providence/ProvidenceAlt failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
+[16:06:28] [29/WARN] [tML]: Silently Caught Exception: 
+Terraria.ModLoader.Exceptions.ResourceLoadException: The texture file at NPCs/Providence/Glowmasks/ProvidenceDefenseAltGlowNight failed to load
+   at Terraria.ModLoader.Mod.<>c__DisplayClass246_0.<LoadTexture>b__0(Task`1 t)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+
